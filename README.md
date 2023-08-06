@@ -1,10 +1,13 @@
 ## Hi, there
 
-My name is Mos Zheng, A 3D Generalist and motion designer freelancer based in Taiwan.
+My name is Mos Zheng, A 3D Generalist and Motion Designer freelancer based in Taiwan.
 
-I usually use the brand name "Slothfellas" for developing C4D plugins and After Effects scripts, making workflows easier.
+I established Slothfellas, a platform that provides C4D plugins and After Effects scripts,  designed to enhance workflows and simplify processes.
 
-For any inquiries, please send me an email : moszheng.design@gmail.com
+For any inquiries, please send me an email : 
+moszheng.design@gmail.com
+
+SlothFellas : https://www.instagram.com/slothfellas/
 
 <!--## Profile
 Property                 | Data  
